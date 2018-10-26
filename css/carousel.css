@@ -1,20 +1,25 @@
 body {
-  font-size: 62.5%;
-  font-family: arial, sans-serif;
+  
+  font-family: Helvetica Neue, sans-serif;
 }
+/*.jumbotron {
+    background-color : #1e78d2;
+    }
+  */ 
+
 #nttLogo{
   height: 100px;
   width: 100px;
 }
 #websiteTitle{
-  font-size: 10em;
+  font-size: 2.5em;
   vertical-align: middle;
   font-family: 'Pacifico', cursive;
   padding-left: 15px;
   color: #191970;
 }
 #websiteSlogan{
-  font-size: 5.4em;
+  font-size: 1.4em;
 }
 /* Carousel Styling */
 .slide1{
@@ -39,10 +44,10 @@ body {
   background-size: cover;
 }
 .carousel-caption h1{
-  font-size: 5.4em;
+  font-size: 4.4em;
   font-family: 'Pacifico', cursive;
   padding-bottom: .4em;
 }
 .carousel-caption p{
-  font-size: 2em;
+  font-size: 1.5em;
 }
