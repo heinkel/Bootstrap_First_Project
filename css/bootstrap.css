@@ -4936,6 +4936,7 @@ a.label:focus {
   padding: 1px 5px;
 }
 a.badge:hover,
+
 a.badge:focus {
   color: #fff;
   text-decoration: none;
