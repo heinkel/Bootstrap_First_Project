@@ -2,10 +2,14 @@ body {
   
   font-family: Helvetica Neue, sans-serif;
 }
-/*.jumbotron {
-    background-color : #1e78d2;
-    }
-  */ 
+
+
+/* Global */
+.container {
+  width: 80%;
+  margin:auto;
+  overflow:hidden;
+}
 
 #nttLogo{
   height: 100px;
@@ -50,4 +54,22 @@ body {
 }
 .carousel-caption p{
   font-size: 1.5em;
+}
+
+
+#Header .jumbotron{
+   background-image: linear-gradient(#02aab0 ,#00cdac);
+}
+
+
+
+
+#Center .jumbotron{
+  background-image: linear-gradient(#7b4397 ,#dc2430);
+}
+
+#Footer .well  {
+    background-color: #dc2430; 
+    color:white;
+    padding-top: 5px;
 }
