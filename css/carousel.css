@@ -4,26 +4,25 @@ body {
 }
 
 
-/* Global */
-.container {
-  width: 80%;
-  margin:auto;
-  overflow:hidden;
-}
-
 #nttLogo{
-  height: 100px;
-  width: 100px;
+  
+  height: 50px;
+  width: 50px;
+ 
+  margin-left: 3em; 
 }
 #websiteTitle{
+
   font-size: 2.5em;
   vertical-align: middle;
   font-family: 'Pacifico', cursive;
-  padding-left: 15px;
+  padding-left: 1em;
   color: #191970;
 }
 #websiteSlogan{
+  padding-left: 2em;
   font-size: 1.4em;
+  color:#191970
 }
 /* Carousel Styling */
 .slide1{
@@ -58,7 +57,12 @@ body {
 
 
 #Header .jumbotron{
-   background-image: linear-gradient(#02aab0 ,#00cdac);
+   background-image: linear-gradient(#f09819,
+#edde5d);
+ 
+  background-size: cover;
+  margin:auto;
+ 
 }
 
 
@@ -66,10 +70,11 @@ body {
 
 #Center .jumbotron{
   background-image: linear-gradient(#7b4397 ,#dc2430);
+   padding-left: 4em;
 }
 
 #Footer .well  {
     background-color: #dc2430; 
     color:white;
-    padding-top: 5px;
+
 }
