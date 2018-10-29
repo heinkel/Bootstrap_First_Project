@@ -1,6 +1,9 @@
 body {
   
   font-family: Helvetica Neue, sans-serif;
+    padding:0;
+  margin:0;
+  background-color: #f4f4f4;
 }
 
 
@@ -86,11 +89,27 @@ body {
 
 #Center .jumbotron{
   background-image: linear-gradient(#7b4397 ,#dc2430);
-   padding-left: 4em;
+  padding-left: 4em;
+  margin:auto;
+ 
+}
+
+#Center #drop{
+  float:  right;
+  padding-right: 5em;
 }
 
 #Footer .well  {
     background-color: #dc2430; 
     color:white;
+
+}
+
+footer{
+  margin:auto;
+  padding:20px;
+  color:#fff;
+  background-image: linear-gradient(#e8491d ,#dc2430);
+  text-align: center;
 
 }
