@@ -6,7 +6,10 @@ body {
   background-color: #f4f4f4;
 }
 
+.container{
+margin-top: 10px;
 
+}
 #nttLogo{
   
   height: 50px;
@@ -102,6 +105,7 @@ body {
 #Footer .well  {
     background-color: #dc2430; 
     color:white;
+    margin-top: 5px
 
 }
 
