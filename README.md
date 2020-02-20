@@ -1,8 +1,6 @@
 # Bootstrap_First_Project
-# This project includes and integral development making use of bootstrap to use as reference in future for other of my projects
-#
-#
-#
+This project includes and integral development making use of bootstrap to use as reference in future for other of my projects
+
 # This Includes the follow:
 # 
 #  Setup
